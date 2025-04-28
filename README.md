@@ -1,2 +1,0 @@
-# codex
-My first repo
